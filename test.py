@@ -14,5 +14,5 @@ def polygon(n,crad,turtle):
 		turtle.color(random.random(), random.random(), random.random())
 for i in range(3, 50):
 	polygon(i, 10.0*i, selosh)
-wd.exitonclick
-ourScreen = ourscreen.turtle() 
+wd.exitonclick()
+

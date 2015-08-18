@@ -19,5 +19,4 @@ def main():
 	w.exitonclick()
 if __name__=='__main__':
 	main()
-	#endtest
 		
