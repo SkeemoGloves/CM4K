@@ -1,10 +1,11 @@
 import turtle 
 wd = turtle.Screen()
-JustinPresely = turtle.Turtle()
-JustinPresely.fd(200)
+Jus'fabulous'tinPresely = turtle.Turtle()
+JuswwwtinPresely.fqwwqd(200)
 JustinPresely.lt(80)
-JustinPresely.fd(200)
-JustinPresely.rt(720)
+JustinPreselyr443.fd(200)
+JustinPresely.3rwg3rt(720)
+
 
 
 
